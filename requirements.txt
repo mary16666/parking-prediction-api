@@ -1,7 +1,7 @@
-setuptools
 flask
 scikit-learn==1.1.3
 pandas
 joblib
 gunicorn
 numpy
+setuptools
